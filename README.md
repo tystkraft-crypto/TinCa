@@ -20,6 +20,10 @@ repeat 3
     wait = 1000
 ```
 
+### 📋 How it works:
+* `hey` — acts like `import` or `include` to load the required module (e.g., `hey hardware`).
+* `1` and `0` — mean `ON` and `OFF` (HIGH / LOW for microcontroller pins).
+
 ---
 
 ## 🛠 Current Status
