@@ -14,10 +14,10 @@ hey hardware
 pin(13) = 1
 
 repeat 3
-    pin 13 = 0
-    wait = 500
-    pin 13 = 1
-    wait = 1000
+    pin(13) = 0
+    delay = 500
+    pin(13) = 1
+    delay = 1000
 ```
 
 ### 📋 How it works:
