@@ -11,7 +11,7 @@ The goal is to get rid of complex C++ syntax, curly brackets, and semicolons. It
 ```text
 hey hardware
 
-pin 13 = 1
+pin(13) = 1
 
 repeat 3
     pin 13 = 0
